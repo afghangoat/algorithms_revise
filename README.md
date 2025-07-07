@@ -1,8 +1,8 @@
-#C++ Algorithms revise
+# C++ Algorithms revise
 
 Some basic algorithms reimplemented in c++ as an excercise.
 
-##Features
+## Features
 
 The implementations are:
 - Quicksort
@@ -18,7 +18,7 @@ Generic comparators:
 - greater_than
 - lesser_than
 
-##Usage
+## Usage
 
 For an example showcase:
 
